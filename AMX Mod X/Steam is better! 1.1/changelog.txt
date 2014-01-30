@@ -1,0 +1,2 @@
+Version 1.1
+ - Some small changes with code

@@ -1,0 +1,4 @@
+Version 1.2
+ - Plugin display players count, max players count and map name in menu (using rcon.inc)
+ - Added 4th parameter in servers.ini "<rcon_password>"
+ - Support of "First Run", so no longer needed in first run create servers.ini, it will create automaticaly

@@ -1,0 +1,3 @@
+Version 1.1
+ - dhudmessage.inc no longer needed
+ - new FIXBUG for redirection on server for STEAM players
