@@ -1,0 +1,17 @@
+{
+    "name"       : "Host_Status_f",
+    "library"    : "engine",
+    "identifiers":
+    [
+        {
+            "os"    : "windows", 
+            "mod" : "cstrike",
+            "value" :  [0x55,0x8B,"*",0x81,"*","*","*","*","*","*",0xA1,"*","*","*","*",0x53,0x56,0x57,0xBF,"*","*","*","*",0x33,"*",0x8B,"*",0x3B,"*",0x89,"*","*",0x89,"*","*",0x89]
+        },
+		{
+            "os"    : "linux", 
+            "mod" : "cstrike",
+            "value" :  "Host_Status_f"
+        }
+    ]
+}
